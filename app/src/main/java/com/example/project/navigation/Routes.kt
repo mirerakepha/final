@@ -1,0 +1,15 @@
+package com.example.project.navigation
+
+const val ROUT_LOGIN = "login"
+const val ROUT_SIGNUP = "signup"
+const val ROUT_UPLOAD = "upload"
+const val ROUT_JOBSEEKER = "jobseeker"
+const val ROUT_COMPANYREGISTRATION = "companyregistration"
+const val ROUT_CHOOSEROLE = "chooserole"
+const val ROUT_DASHBOARD = "dashboard"
+const val ROUT_PROFILE = "profile"
+const val ROUT_SPLASH = "splash"
+const val ROUT_NOTIFICATION = "notification"
+const val ROUT_ABOUT = "about"
+const val ROUT_APPLICATIONS = "applications"
+const val ROUT_SETTINGS = "settings"
